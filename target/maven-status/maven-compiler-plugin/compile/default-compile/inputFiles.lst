@@ -1,0 +1,15 @@
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/Expenses06Application.java
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/HelloController.java
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/controller/CategoryController.java
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/controller/TransactionController.java
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/dto/CategoryDto.java
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/dto/DailySummaryDto.java
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/dto/SummaryDto.java
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/dto/TransactionRequestDto.java
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/dto/TransactionResponseDto.java
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/model/Category.java
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/model/Transaction.java
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/repository/CategoryRepository.java
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/repository/TransactionRepository.java
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/service/CategoryService.java
+/Users/manami/github/expenses_06/backend/src/main/java/com/expenses_06/demo/service/TransactionService.java
