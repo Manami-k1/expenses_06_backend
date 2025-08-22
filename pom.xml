@@ -11,6 +11,7 @@
 	<groupId>com.expenses_06</groupId>
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	  <packaging>jar</packaging>
 	<name>expenses_06</name>
 	<description>expenses_06 project for Spring Boot</description>
 	<url/>

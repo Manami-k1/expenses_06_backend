@@ -14,7 +14,7 @@ FROM eclipse-temurin:17-jre
 WORKDIR /app
 
 # ビルド結果のjarファイルだけコピー
-COPY --from=build /app/target/expenses-api-0.0.1-SNAPSHOT.jar ./app.jar
+COPY --from=build /app/target/demo-0.0.1-SNAPSHOT.jar ./app.jar
 
 # 起動コマンド
 CMD ["java", "-jar", "app.jar"]
